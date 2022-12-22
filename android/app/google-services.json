@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "907223006015",
+    "project_id": "docexa-c5f3b",
+    "storage_bucket": "docexa-c5f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907223006015:android:004f5bf28a0a6cb436718a",
+        "android_client_info": {
+          "package_name": "com.docexa.vd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907223006015-rabe7hk063qos0obaf649f46ktr8pg01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkTr_0ga5jgGHvEyatGtXWDLs0q76gJKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907223006015-rabe7hk063qos0obaf649f46ktr8pg01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907223006015-9etpumhofd4kl3fpu8gja999ta2i9joj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.template.doctorfinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907223006015:android:01b69c800670c50736718a",
+        "android_client_info": {
+          "package_name": "in.globalspace.docexa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907223006015-rabe7hk063qos0obaf649f46ktr8pg01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkTr_0ga5jgGHvEyatGtXWDLs0q76gJKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907223006015-rabe7hk063qos0obaf649f46ktr8pg01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907223006015-9etpumhofd4kl3fpu8gja999ta2i9joj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.template.doctorfinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
